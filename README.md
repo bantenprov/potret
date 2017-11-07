@@ -1,2 +1,2 @@
 # potret
-POTo REalita Tentang BANTEN
+POTo REalita tentang BANTEN
